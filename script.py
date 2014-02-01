@@ -1,4 +1,5 @@
 # Camera trap script
+# All rights reserved
 
 Read data file
 
