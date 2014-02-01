@@ -14,3 +14,7 @@ Make header bold
 Make small figure, red line
 
 Add legend to figure
+
+Write conclusions
+
+Submit to journal
