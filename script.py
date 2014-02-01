@@ -1,4 +1,5 @@
 # Camera trap script
+# All rights reserved
 
 Read data file
 
@@ -8,6 +9,8 @@ Run analysis
 
 Make table
 
-Make small figure
+Make header bold 
+
+Make small figure, red line
 
 Add legend to figure
